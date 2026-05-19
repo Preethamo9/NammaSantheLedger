@@ -114,11 +114,6 @@ Benefits:
 
 ---
 
-# 📄 License
-
-MIT License
-
----
 
 # 👨‍💻 Author
 
