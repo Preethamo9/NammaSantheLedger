@@ -37,7 +37,7 @@ The app focuses on:
 | UI Design | XML Layouts |
 | Background Tasks | WorkManager |
 | Notifications | Broadcast Receiver |
-| Storage | Shared Preferences & Local Storage |
+| Storage | Firebase & Local Storage |
 
 ---
 
